@@ -24,10 +24,8 @@
             Style="{StaticResource PageTitleStyle}" />
 
         <Grid 
-            Grid.Row="1" 
-            Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
-            <!--The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
-                Place your content here.-->
+            Grid.Row="1" >
+            <Image Source="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Images\mount-fuji-japan.jpg" Stretch="UniformToFill"/>
         </Grid>
         <!--  Adaptive triggers  -->
         <VisualStateManager.VisualStateGroups>

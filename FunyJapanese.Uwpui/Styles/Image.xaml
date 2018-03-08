@@ -13,4 +13,8 @@
         <Setter Property="Height" Value="456" />
     </Style>
 
+    <Style TargetType="Image" x:Key="BackGroundImageStyle">
+        <Setter Property="Stretch" Value="Fill"/>
+    </Style>
+
 </ResourceDictionary>

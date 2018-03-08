@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunyJapanese.Data", "FunyJapanese.Data\FunyJapanese.Data.csproj", "{584EA075-8B55-4DB2-B0B3-74EBAB0E35CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunyJapanese.Data", "FunyJapanese.Data\FunyJapanese.Data.csproj", "{584EA075-8B55-4DB2-B0B3-74EBAB0E35CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunyJapanese.Domain", "FunyJapanese.Domain\FunyJapanese.Domain.csproj", "{9AC56017-B0D3-48EA-A23D-243FBDED0886}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunyJapanese.Domain", "FunyJapanese.Domain\FunyJapanese.Domain.csproj", "{9AC56017-B0D3-48EA-A23D-243FBDED0886}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunyJapanese.Uwpui", "FunyJapanese.Uwpui\FunyJapanese.Uwpui.csproj", "{A6CB974B-C673-473B-881F-C1B5C4EB1B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyJapanese.UI", "FunnyJapanese.UI\FunnyJapanese.UI.csproj", "{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,26 @@ Global
 		{A6CB974B-C673-473B-881F-C1B5C4EB1B1D}.Release|x86.ActiveCfg = Release|x86
 		{A6CB974B-C673-473B-881F-C1B5C4EB1B1D}.Release|x86.Build.0 = Release|x86
 		{A6CB974B-C673-473B-881F-C1B5C4EB1B1D}.Release|x86.Deploy.0 = Release|x86
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|ARM.Build.0 = Debug|ARM
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|ARM.Deploy.0 = Debug|ARM
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|x64.ActiveCfg = Debug|x64
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|x64.Build.0 = Debug|x64
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|x64.Deploy.0 = Debug|x64
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|x86.ActiveCfg = Debug|x86
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|x86.Build.0 = Debug|x86
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Debug|x86.Deploy.0 = Debug|x86
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|Any CPU.ActiveCfg = Release|x86
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|ARM.ActiveCfg = Release|ARM
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|ARM.Build.0 = Release|ARM
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|ARM.Deploy.0 = Release|ARM
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|x64.ActiveCfg = Release|x64
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|x64.Build.0 = Release|x64
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|x64.Deploy.0 = Release|x64
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|x86.ActiveCfg = Release|x86
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|x86.Build.0 = Release|x86
+		{D59C7B6F-1394-4435-81F8-5FA1E6C80CC2}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

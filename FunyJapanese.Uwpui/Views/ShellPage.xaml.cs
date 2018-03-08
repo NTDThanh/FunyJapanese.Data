@@ -2,7 +2,7 @@
 
 using FunyJapanese.Uwpui.Services;
 using FunyJapanese.Uwpui.ViewModels;
-
+using Windows.ApplicationModel.Core;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Navigation;
 
@@ -19,7 +19,9 @@ namespace FunyJapanese.Uwpui.Views
         {
             InitializeComponent();
             DataContext = ViewModel;
-            ViewModel.Initialize(shellFrame);
+            ViewModel.Initialize(ContentFrame);
+            var coreTitleBar = CoreApplication.GetCurrentView().TitleBar;
+            coreTitleBar.ExtendViewIntoTitleBar = true;
         }
     }
 }

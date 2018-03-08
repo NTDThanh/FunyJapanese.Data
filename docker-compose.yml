@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  funyjapanese.uwpui:
+    image: funyjapanese.uwpui
+    build:
+      context: .\FunyJapanese.Uwpui
+      dockerfile: Dockerfile

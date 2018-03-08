@@ -26,9 +26,9 @@
     </RootType>
     <RootType FullName="FunyJapanese.Uwpui.ViewModels.ViewModelLocator" />
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Stretch" />
       <RootProperty Name="Style" />
       <RootProperty Name="Source" />
-      <RootProperty Name="Stretch" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.FrameworkElement">
       <RootProperty Name="Width" />
@@ -85,6 +85,7 @@
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
     <RootType FullName="Windows.UI.Xaml.Data.Binding">
       <RootProperty Name="Source" />
+      <RootProperty Name="Path" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
       <RootProperty Name="Margin" />
@@ -145,6 +146,7 @@
       <RootProperty Name="Mode" />
       <RootProperty Name="Converter" />
       <RootProperty Name="ConverterParameter" />
+      <RootProperty Name="Path" />
     </RootType>
     <RootType FullName="Telerik.UI.Xaml.Controls.Chart.PropertyNameDataPointBinding">
       <RootProperty Name="PropertyName" />
@@ -285,20 +287,32 @@
       <RootProperty Name="TargetName" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Media.Animation.PointerUpThemeAnimation" />
-    <RootType FullName="Microsoft.Toolkit.Uwp.UI.Controls.HamburgerMenu">
-      <RootProperty Name="UseNavigationViewWhenPossible" />
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationView">
       <RootProperty Name="SelectedItem" />
-      <RootProperty Name="DisplayMode" />
       <RootProperty Name="IsPaneOpen" />
-      <RootProperty Name="ItemTemplate" />
-      <RootProperty Name="ItemsSource" />
-      <RootProperty Name="OptionsItemTemplate" />
-      <RootProperty Name="OptionsItemsSource" />
-      <RootProperty Name="PaneBackground" />
-      <RootProperty Name="PaneForeground" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="MenuItems" />
       <RootProperty Name="Content" />
     </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.Frame" />
+    <RootType FullName="Windows.UI.Xaml.Media.AcrylicBrush">
+      <RootProperty Name="BackgroundSource" />
+      <RootProperty Name="TintColor" />
+      <RootProperty Name="TintOpacity" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationViewItemSeparator" />
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationViewItemHeader">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationViewItem">
+      <RootProperty Name="Icon" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Tag" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Frame">
+      <RootProperty Name="ContentTransitions" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.NavigationThemeTransition" />
     <RootType FullName="FunyJapanese.Uwpui.Views.ShellPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.Pivot">
       <RootProperty Name="Items" />

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-RVOOOE4</Machine>
-    <WindowsUser>ThanhTD</WindowsUser>
+    <Machine>MAYTINH-D1GRT95</Machine>
+    <WindowsUser>Administrator</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>FBBDE5F6-5C1E-45DD-B732-D1BE6789B039</PackageIdentityName>
     <PackageIdentityPublisher>CN=Administrator</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>CBD49EA6D8A63DA059E5766A1FE2E167A16D99F758DC852C7C8B0E6A863814A9</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>751AB4B937A7357F02CB90F360DC85F4F777CC6BDC4FD68CD92006754D944FBF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>FBBDE5F6-5C1E-45DD-B732-D1BE6789B039_1.0.0.0_x86__75cr2b68sm664</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>FBBDE5F6-5C1E-45DD-B732-D1BE6789B039_75cr2b68sm664!App</RegisteredUserModeAppID>
     <RegisteredPackageID>FBBDE5F6-5C1E-45DD-B732-D1BE6789B039</RegisteredPackageID>
@@ -28,134 +28,134 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-06T02:15:58.082</Modified>
+      <Modified>2018-03-07T16:13:21.709</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\FunyJapanese.Uwpui.exe">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\FunyJapanese.Uwpui.exe">
       <PackagePath>entrypoint\FunyJapanese.Uwpui.exe</PackagePath>
-      <Modified>2018-03-06T02:11:41.659</Modified>
+      <Modified>2018-03-07T16:13:11.306</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\commonservicelocator\1.3.0\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\commonservicelocator\1.3.0\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
       <Modified>2014-05-05T04:25:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.data.sqlite.core\2.0.0\lib\netstandard2.0\Microsoft.Data.Sqlite.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.data.sqlite.core\2.0.0\lib\netstandard2.0\Microsoft.Data.Sqlite.dll">
       <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.entityframeworkcore\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.entityframeworkcore\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
       <Modified>2017-10-30T16:55:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.entityframeworkcore.design\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Design.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.entityframeworkcore.design\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Design.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.Design.dll</PackagePath>
       <Modified>2017-10-30T16:55:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.entityframeworkcore.relational\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.entityframeworkcore.relational\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
       <Modified>2017-10-30T16:55:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Sqlite.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\2.0.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Sqlite.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.Sqlite.dll</PackagePath>
       <Modified>2017-10-30T16:55:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.caching.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.caching.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.caching.memory\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.caching.memory\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll">
       <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.configuration.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.configuration.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.dependencyinjection\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.dependencyinjection\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.logging\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.logging\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.dll">
       <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.logging.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.logging.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.options\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.options\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll">
       <PackagePath>Microsoft.Extensions.Options.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.extensions.primitives\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.extensions.primitives\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll">
       <PackagePath>Microsoft.Extensions.Primitives.dll</PackagePath>
       <Modified>2017-07-24T17:48:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.identity.client\1.0.304142221-alpha\lib\netcore45\Microsoft.Identity.Client.Platform.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.identity.client\1.0.304142221-alpha\lib\netcore45\Microsoft.Identity.Client.Platform.dll">
       <PackagePath>Microsoft.Identity.Client.Platform.dll</PackagePath>
       <Modified>2016-04-14T15:28:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.identity.client\1.0.304142221-alpha\lib\netcore45\Microsoft.Identity.Client.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.identity.client\1.0.304142221-alpha\lib\netcore45\Microsoft.Identity.Client.dll">
       <PackagePath>Microsoft.Identity.Client.dll</PackagePath>
       <Modified>2016-04-14T15:28:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit\2.1.1\lib\netstandard1.4\Microsoft.Toolkit.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit\2.1.1\lib\netstandard1.4\Microsoft.Toolkit.dll">
       <PackagePath>Microsoft.Toolkit.dll</PackagePath>
       <Modified>2017-12-14T20:45:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.dll</PackagePath>
       <Modified>2017-12-14T20:45:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.dll</PackagePath>
       <Modified>2017-12-14T20:45:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.animations\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Animations.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.animations\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Animations.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Animations.dll</PackagePath>
       <Modified>2017-12-14T20:45:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.dll</PackagePath>
       <Modified>2017-12-14T20:45:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
       <Modified>2016-10-19T10:07:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
       <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
       <Modified>2016-10-19T10:07:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\mvvmlightlibs\5.3.0\lib\windows81\GalaSoft.MvvmLight.Extras.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\mvvmlightlibs\5.3.0\lib\windows81\GalaSoft.MvvmLight.Extras.dll">
       <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
       <Modified>2016-04-22T09:28:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\mvvmlightlibs\5.3.0\lib\windows81\GalaSoft.MvvmLight.Platform.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\mvvmlightlibs\5.3.0\lib\windows81\GalaSoft.MvvmLight.Platform.dll">
       <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
       <Modified>2016-04-22T09:28:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\mvvmlightlibs\5.3.0\lib\windows81\GalaSoft.MvvmLight.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\mvvmlightlibs\5.3.0\lib\windows81\GalaSoft.MvvmLight.dll">
       <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
       <Modified>2016-04-22T09:28:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\newtonsoft.json\10.0.3\lib\netstandard1.3\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\newtonsoft.json\10.0.3\lib\netstandard1.3\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
       <Modified>2017-06-18T06:57:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\remotion.linq\2.1.1\lib\portable-net45+win+wpa81+wp80\Remotion.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\remotion.linq\2.1.1\lib\portable-net45+win+wpa81+wp80\Remotion.Linq.dll">
       <PackagePath>Remotion.Linq.dll</PackagePath>
       <Modified>2016-06-14T16:16:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\robmikh.compositionsurfacefactory\0.7.3\runtimes\win10-x86\native\Robmikh.CompositionSurfaceFactory.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\robmikh.compositionsurfacefactory\0.7.3\runtimes\win10-x86\native\Robmikh.CompositionSurfaceFactory.dll">
       <PackagePath>Robmikh.CompositionSurfaceFactory.dll</PackagePath>
       <Modified>2017-09-27T12:20:54.000</Modified>
     </AppxPackagedFile>
@@ -815,715 +815,719 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2017-12-21T11:01:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\sqlitepclraw.bundle_green\1.1.7\lib\uap10.0\SQLitePCLRaw.batteries_green.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\sqlitepclraw.bundle_green\1.1.7\lib\uap10.0\SQLitePCLRaw.batteries_green.dll">
       <PackagePath>SQLitePCLRaw.batteries_green.dll</PackagePath>
       <Modified>2017-06-28T07:53:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\sqlitepclraw.bundle_green\1.1.7\lib\uap10.0\SQLitePCLRaw.batteries_v2.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\sqlitepclraw.bundle_green\1.1.7\lib\uap10.0\SQLitePCLRaw.batteries_v2.dll">
       <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
       <Modified>2017-06-28T07:53:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\sqlitepclraw.core\1.1.7\lib\uap10.0\SQLitePCLRaw.core.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\sqlitepclraw.core\1.1.7\lib\uap10.0\SQLitePCLRaw.core.dll">
       <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
       <Modified>2017-06-28T07:53:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\sqlitepclraw.lib.e_sqlite3.v140\1.1.7\runtimes\win10-x86\native\e_sqlite3.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\sqlitepclraw.lib.e_sqlite3.v140\1.1.7\runtimes\win10-x86\native\e_sqlite3.dll">
       <PackagePath>e_sqlite3.dll</PackagePath>
       <Modified>2017-06-28T07:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\sqlitepclraw.provider.e_sqlite3.uwp10\1.1.7\lib\uap10.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\sqlitepclraw.provider.e_sqlite3.uwp10\1.1.7\lib\uap10.0\SQLitePCLRaw.provider.e_sqlite3.dll">
       <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
       <Modified>2017-06-28T07:53:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\system.interactive.async\3.1.1\lib\netstandard1.3\System.Interactive.Async.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\system.interactive.async\3.1.1\lib\netstandard1.3\System.Interactive.Async.dll">
       <PackagePath>System.Interactive.Async.dll</PackagePath>
       <Modified>2016-11-21T07:05:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\system.runtime.compilerservices.unsafe\4.4.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\system.runtime.compilerservices.unsafe\4.4.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
       <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
       <Modified>2017-07-19T03:01:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.Core.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.Core.dll">
       <PackagePath>Telerik.Core.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.Data.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.Data.dll">
       <PackagePath>Telerik.Data.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.Geospatial.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.Geospatial.UWP.dll">
       <PackagePath>Telerik.Geospatial.UWP.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP.dll">
       <PackagePath>Telerik.UI.Xaml.Chart.UWP.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP.dll">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP.dll">
       <PackagePath>Telerik.UI.Xaml.DataVisualization.UWP.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP.dll">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP.dll">
       <PackagePath>Telerik.UI.Xaml.Input.UWP.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Primitives.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Primitives.UWP.dll">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\win2d.uwp\1.21.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\win2d.uwp\1.21.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2017-06-25T20:01:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Data\bin\Debug\netstandard2.0\FunyJapanese.Data.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Data\bin\Debug\netstandard2.0\FunyJapanese.Data.dll">
       <PackagePath>FunyJapanese.Data.dll</PackagePath>
-      <Modified>2018-03-06T02:11:29.650</Modified>
+      <Modified>2018-03-06T16:24:22.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Domain\bin\Debug\netstandard2.0\FunyJapanese.Domain.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Domain\bin\Debug\netstandard2.0\FunyJapanese.Domain.dll">
       <PackagePath>FunyJapanese.Domain.dll</PackagePath>
-      <Modified>2018-03-06T02:11:29.172</Modified>
+      <Modified>2018-03-06T16:24:21.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\build\uap10.0\..\..\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\build\uap10.0\..\..\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP.dll">
       <PackagePath>Telerik.UI.Xaml.Map.UWP.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\build\uap10.0\..\..\lib\uap10.0\x86\Telerik.UI.Drawing.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\build\uap10.0\..\..\lib\uap10.0\x86\Telerik.UI.Drawing.dll">
       <PackagePath>Telerik.UI.Drawing.dll</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\robmikh.compositionsurfacefactory\0.7.3\lib\uap10.0\Robmikh.CompositionSurfaceFactory.winmd">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\robmikh.compositionsurfacefactory\0.7.3\lib\uap10.0\Robmikh.CompositionSurfaceFactory.winmd">
       <PackagePath>Robmikh.CompositionSurfaceFactory.winmd</PackagePath>
       <Modified>2017-09-27T12:20:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\win2d.uwp\1.21.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\win2d.uwp\1.21.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
       <Modified>2017-06-25T20:01:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\build\uap10.0\..\..\lib\uap10.0\x86\Telerik.UI.Drawing.winmd">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\build\uap10.0\..\..\lib\uap10.0\x86\Telerik.UI.Drawing.winmd">
       <PackagePath>Telerik.UI.Drawing.winmd</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\PlaceholderImage.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\PlaceholderImage.png">
       <PackagePath>Assets\PlaceholderImage.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.353</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto1.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto1.png">
       <PackagePath>Assets\SampleData\SamplePhoto1.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto10.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto10.png">
       <PackagePath>Assets\SampleData\SamplePhoto10.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.362</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto2.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto2.png">
       <PackagePath>Assets\SampleData\SamplePhoto2.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.369</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto3.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto3.png">
       <PackagePath>Assets\SampleData\SamplePhoto3.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.374</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto4.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto4.png">
       <PackagePath>Assets\SampleData\SamplePhoto4.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.402</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto5.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto5.png">
       <PackagePath>Assets\SampleData\SamplePhoto5.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.407</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto6.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto6.png">
       <PackagePath>Assets\SampleData\SamplePhoto6.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.422</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto7.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto7.png">
       <PackagePath>Assets\SampleData\SamplePhoto7.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto8.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto8.png">
       <PackagePath>Assets\SampleData\SamplePhoto8.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.436</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto9.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SampleData\SamplePhoto9.png">
       <PackagePath>Assets\SampleData\SamplePhoto9.png</PackagePath>
-      <Modified>2018-03-05T16:19:18.000</Modified>
+      <Modified>2018-03-05T16:19:18.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2018-03-05T16:18:29.000</Modified>
+      <Modified>2018-03-05T16:18:29.890</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-05T16:18:29.000</Modified>
+      <Modified>2018-03-05T16:18:29.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-05T16:18:29.000</Modified>
+      <Modified>2018-03-05T16:18:29.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-05T16:18:29.000</Modified>
+      <Modified>2018-03-05T16:18:29.905</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-05T16:18:29.000</Modified>
+      <Modified>2018-03-05T16:18:29.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-05T16:18:29.000</Modified>
+      <Modified>2018-03-05T16:18:29.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-05T16:18:29.000</Modified>
+      <Modified>2018-03-05T16:18:29.945</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Images\mount-fuji-japan.jpg">
+      <PackagePath>Images\mount-fuji-japan.jpg</PackagePath>
+      <Modified>2018-03-06T04:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-03-05T16:18:29.000</Modified>
+      <Modified>2018-03-05T16:18:29.961</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\FunyJapanese.Uwpui.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\FunyJapanese.Uwpui.xr.xml">
       <PackagePath>FunyJapanese.Uwpui.xr.xml</PackagePath>
-      <Modified>2018-03-06T02:11:39.809</Modified>
+      <Modified>2018-03-07T15:44:40.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-11-10T11:15:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.Core\Properties\default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.Core\Properties\default.rd.xml">
       <PackagePath>Telerik.Core\Properties\default.rd.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Telerik.UI.Xaml.Map.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Telerik.UI.Xaml.Map.UWP.xr.xml">
       <PackagePath>Telerik.UI.Xaml.Map.UWP\Telerik.UI.Xaml.Map.UWP.xr.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Themes\Generic.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Themes\Generic.xaml">
       <PackagePath>Telerik.UI.Xaml.Map.UWP\Themes\Generic.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesDark.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesDark.xaml">
       <PackagePath>Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesDark.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesHighContrast.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesHighContrast.xaml">
       <PackagePath>Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesHighContrast.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesLight.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesLight.xaml">
       <PackagePath>Telerik.UI.Xaml.Map.UWP\Themes\ThemeResourcesLight.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Telerik.UI.Xaml.Primitives.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Telerik.UI.Xaml.Primitives.UWP.xr.xml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Telerik.UI.Xaml.Primitives.UWP.xr.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\Generic.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\Generic.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\Generic.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\HubTilePalette.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\HubTilePalette.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\HubTilePalette.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\Resources.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\Resources.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\Resources.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\SharedResources.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\SharedResources.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\SharedResources.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsDark.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsDark.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsDark.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsHighContrast.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsHighContrast.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsHighContrast.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsLight.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsLight.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeColorsLight.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesDark.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesDark.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesDark.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesHighContrast.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesHighContrast.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesHighContrast.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesLight.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\x86\Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesLight.xaml">
       <PackagePath>Telerik.UI.Xaml.Primitives.UWP\Themes\ThemeResourcesLight.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Microsoft.Toolkit.Uwp.UI.Controls.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Microsoft.Toolkit.Uwp.UI.Controls.xr.xml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Microsoft.Toolkit.Uwp.UI.Controls.xr.xml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\BladeView\BladeView.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\BladeView\BladeView.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\BladeView\BladeView.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Carousel\Carousel.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Carousel\Carousel.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Carousel\Carousel.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\DropShadowPanel\DropShadowPanel.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\DropShadowPanel\DropShadowPanel.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\DropShadowPanel\DropShadowPanel.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Expander\Expander.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Expander\Expander.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Expander\Expander.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\GridSplitter\GridSplitter.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\GridSplitter\GridSplitter.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\GridSplitter\GridSplitter.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenu.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenu.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenu.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuNavViewTemplate.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuNavViewTemplate.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuNavViewTemplate.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuTemplate.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuTemplate.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuTemplate.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedContentControl\HeaderedContentControl.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedContentControl\HeaderedContentControl.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HeaderedContentControl\HeaderedContentControl.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedItemsControl\HeaderedItemsControl.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedItemsControl\HeaderedItemsControl.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HeaderedItemsControl\HeaderedItemsControl.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedTextBlock\HeaderedTextBlock.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedTextBlock\HeaderedTextBlock.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HeaderedTextBlock\HeaderedTextBlock.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\ImageEx.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\ImageEx.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\ImageEx.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\RoundImageEx.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\RoundImageEx.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\RoundImageEx.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\InAppNotification.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\InAppNotification.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\InAppNotification.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\MSEdgeNotificationStyle.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\MSEdgeNotificationStyle.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\MSEdgeNotificationStyle.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\VSCodeNotificationStyle.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\VSCodeNotificationStyle.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\VSCodeNotificationStyle.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\LayoutTransformControl\LayoutTransformControl.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\LayoutTransformControl\LayoutTransformControl.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\LayoutTransformControl\LayoutTransformControl.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Loading\Loading.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Loading\Loading.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Loading\Loading.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\MarkdownTextBlock\MarkdownTextBlock.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\MarkdownTextBlock\MarkdownTextBlock.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\MarkdownTextBlock\MarkdownTextBlock.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\MasterDetailsView\MasterDetailsView.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\MasterDetailsView\MasterDetailsView.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\MasterDetailsView\MasterDetailsView.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Menu\Menu.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Menu\Menu.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Menu\Menu.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\OrbitView\OrbitView.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\OrbitView\OrbitView.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\OrbitView\OrbitView.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\PullToRefreshListView\PullToRefreshListView.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\PullToRefreshListView\PullToRefreshListView.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\PullToRefreshListView\PullToRefreshListView.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\RadialGauge\RadialGauge.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\RadialGauge\RadialGauge.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\RadialGauge\RadialGauge.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\RadialProgressBar\RadialProgressBar.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\RadialProgressBar\RadialProgressBar.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\RadialProgressBar\RadialProgressBar.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\RangeSelector\RangeSelector.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\RangeSelector\RangeSelector.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\RangeSelector\RangeSelector.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\RotatorTile\RotatorTile.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\RotatorTile\RotatorTile.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\RotatorTile\RotatorTile.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\ScrollHeader\ScrollHeader.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\ScrollHeader\ScrollHeader.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\ScrollHeader\ScrollHeader.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItem.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItem.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItem.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItemSwipeControlTemplate.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItemSwipeControlTemplate.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItemSwipeControlTemplate.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\TextToolbar.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\TextToolbar.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\TextToolbar.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\Symbols\Symbols.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\Symbols\Symbols.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\Symbols\Symbols.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarButton.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarButton.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarButton.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarSeparator.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarSeparator.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarSeparator.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Themes\Generic.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\Themes\Generic.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Themes\Generic.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TileControl\TileControl.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.toolkit.uwp.ui.controls\2.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.UI.Controls\TileControl\TileControl.xaml">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TileControl\TileControl.xaml</PackagePath>
       <Modified>2017-12-14T12:45:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.Data\Properties\default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.Data\Properties\default.rd.xml">
       <PackagePath>Telerik.Data\Properties\default.rd.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\CustomDictionary.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\CustomDictionary.xml">
       <PackagePath>Telerik.UI.Xaml.Chart.UWP\CustomDictionary.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Telerik.UI.Xaml.Chart.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Telerik.UI.Xaml.Chart.UWP.xr.xml">
       <PackagePath>Telerik.UI.Xaml.Chart.UWP\Telerik.UI.Xaml.Chart.UWP.xr.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Themes\Generic.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Themes\Generic.xaml">
       <PackagePath>Telerik.UI.Xaml.Chart.UWP\Themes\Generic.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesDark.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesDark.xaml">
       <PackagePath>Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesDark.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesHighContrast.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesHighContrast.xaml">
       <PackagePath>Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesHighContrast.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesLight.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesLight.xaml">
       <PackagePath>Telerik.UI.Xaml.Chart.UWP\Themes\ThemeResourcesLight.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Telerik.UI.Xaml.Controls.Data.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Telerik.UI.Xaml.Controls.Data.UWP.xr.xml">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\Telerik.UI.Xaml.Controls.Data.UWP.xr.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\ListView\Resources\reorder-handle-dark.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\ListView\Resources\reorder-handle-dark.png">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\ListView\Resources\reorder-handle-dark.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\ListView\Resources\reorder-handle-light.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\ListView\Resources\reorder-handle-light.png">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\ListView\Resources\reorder-handle-light.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\DataForm.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\DataForm.xaml">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\Themes\DataForm.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\Generic.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\Generic.xaml">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\Themes\Generic.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\Listbox.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\Listbox.xaml">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\Themes\Listbox.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesDark.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesDark.xaml">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesDark.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesHighContrast.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesHighContrast.xaml">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesHighContrast.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesLight.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesLight.xaml">
       <PackagePath>Telerik.UI.Xaml.Controls.Data.UWP\Themes\ThemeResourcesLight.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Telerik.UI.Xaml.Input.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Telerik.UI.Xaml.Input.UWP.xr.xml">
       <PackagePath>Telerik.UI.Xaml.Input.UWP\Telerik.UI.Xaml.Input.UWP.xr.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\Calendar.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\Calendar.xaml">
       <PackagePath>Telerik.UI.Xaml.Input.UWP\Themes\Calendar.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\CommonResources.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\CommonResources.xaml">
       <PackagePath>Telerik.UI.Xaml.Input.UWP\Themes\CommonResources.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\Generic.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\Generic.xaml">
       <PackagePath>Telerik.UI.Xaml.Input.UWP\Themes\Generic.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\Resources.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\Resources.xaml">
       <PackagePath>Telerik.UI.Xaml.Input.UWP\Themes\Resources.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesDark.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesDark.xaml">
       <PackagePath>Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesDark.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesHighContrast.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesHighContrast.xaml">
       <PackagePath>Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesHighContrast.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesLight.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesLight.xaml">
       <PackagePath>Telerik.UI.Xaml.Input.UWP\Themes\ThemeResourcesLight.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Telerik.UI.Xaml.DataVisualization.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Telerik.UI.Xaml.DataVisualization.UWP.xr.xml">
       <PackagePath>Telerik.UI.Xaml.DataVisualization.UWP\Telerik.UI.Xaml.DataVisualization.UWP.xr.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\Generic.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\Generic.xaml">
       <PackagePath>Telerik.UI.Xaml.DataVisualization.UWP\Themes\Generic.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\Resources.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\Resources.xaml">
       <PackagePath>Telerik.UI.Xaml.DataVisualization.UWP\Themes\Resources.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesDark.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesDark.xaml">
       <PackagePath>Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesDark.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesHighContrast.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesHighContrast.xaml">
       <PackagePath>Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesHighContrast.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesLight.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesLight.xaml">
       <PackagePath>Telerik.UI.Xaml.DataVisualization.UWP\Themes\ThemeResourcesLight.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Telerik.UI.Xaml.Grid.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Telerik.UI.Xaml.Grid.UWP.xr.xml">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Telerik.UI.Xaml.Grid.UWP.xr.xml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-240.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-240.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-180.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-180.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-140.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.scale-140.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-240.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-240.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-180.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-180.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-140.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.scale-140.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\FilterFlyout\ic_arrow_down_white.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-240.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-240.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-180.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-180.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-140.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.scale-140.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-240.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-240.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-180.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-180.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-140.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.scale-140.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\close_btn_blue.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-240.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-240.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-180.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-180.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-140.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.scale-140.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-240.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-240.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-180.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-180.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-140.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.scale-140.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\column_chooser_btn_blue.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-240.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-240.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-180.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-180.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-140.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.scale-140.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_dark.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-240.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-240.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-180.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-180.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-140.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.scale-140.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.png">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Assets\Reorder\ic_reorder_light.png</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\Generic.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\Generic.xaml">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Themes\Generic.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\Resources.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\Resources.xaml">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Themes\Resources.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesDark.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesDark.xaml">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesDark.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesHighContrast.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesHighContrast.xaml">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesHighContrast.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesLight.xaml">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\telerik.ui.for.universalwindowsplatform\1.0.0.5\lib\uap10.0\Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesLight.xaml">
       <PackagePath>Telerik.UI.Xaml.Grid.UWP\Themes\ThemeResourcesLight.xaml</PackagePath>
       <Modified>2017-08-10T04:30:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-06T02:15:47.994</Modified>
+      <Modified>2018-03-07T16:13:16.450</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\Core\FunyJapanese.Uwpui.exe">
+    <AppxPackagedFile Include="C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\bin\x86\Debug\Core\FunyJapanese.Uwpui.exe">
       <PackagePath>FunyJapanese.Uwpui.exe</PackagePath>
-      <Modified>2018-03-06T02:15:58.074</Modified>
+      <Modified>2018-03-07T16:13:21.687</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
+    <ResolvedSDKReference Include="C:\Users\Administrator\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
       <Name>Microsoft.NET.CoreRuntime.2.1</Name>
       <Version>2.1.25801.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.1, MinVersion = 2.1.25801.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
+      <AppxLocation>C:\Users\Administrator\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
+    <ResolvedSDKReference Include="C:\Users\Administrator\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
       <Name>Microsoft.NET.CoreRuntime.2.1</Name>
       <Version>2.1.25801.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.1, MinVersion = 2.1.25801.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
+      <AppxLocation>C:\Users\Administrator\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
+    <ResolvedSDKReference Include="C:\Users\Administrator\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">
       <Name>Microsoft.NET.CoreRuntime.2.1</Name>
       <Version>2.1.25801.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.1, MinVersion = 2.1.25801.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
+      <AppxLocation>C:\Users\Administrator\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.1.1\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>

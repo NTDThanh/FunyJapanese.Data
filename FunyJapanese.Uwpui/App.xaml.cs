@@ -1,7 +1,6 @@
 ﻿using System;
 
 using FunyJapanese.Uwpui.Services;
-
 using Windows.ApplicationModel.Activation;
 using Windows.UI.Xaml;
 

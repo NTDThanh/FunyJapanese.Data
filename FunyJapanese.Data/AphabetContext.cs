@@ -14,7 +14,8 @@ namespace FunyJapanese.Data
             var dbPath = "FunyJapanese.db";
             try
             {
-                optionsBuilder.UseSqlite($"Data source={dbPath}");
+                optionsBuilder
+                    .UseSqlite($"Data source={dbPath}");
             }
             catch (InvalidOperationException)
             {

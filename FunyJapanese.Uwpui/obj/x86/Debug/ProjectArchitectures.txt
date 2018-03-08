@@ -1,1 +1,1 @@
-C:\Users\ThanhTD\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\FunyJapanese.Uwpui.csproj;x86
+C:\Users\Administrator\OneDrive\UWP\Project\FunyJapanese.Data\FunyJapanese.Uwpui\FunyJapanese.Uwpui.csproj;x86
